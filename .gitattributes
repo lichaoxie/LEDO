@@ -16,4 +16,4 @@
 *.rte filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 #*.ini diff -binary text
-*.ini -text diff
+*.ini diff text
